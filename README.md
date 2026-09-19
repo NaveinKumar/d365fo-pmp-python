@@ -13,10 +13,11 @@ costs and seller profit.
 [Open FFP notebook in Colab](https://colab.research.google.com/github/NaveinKumar/d365fo-pmp-python/blob/main/01_FFP/FFP.ipynb)
 
 ---
-
 ### 02 — Fixed Price Incentive Fee (FPIF)
 
-Coming soon.
+Explore target cost, target fee, ceiling price, buyer/seller share ratios, and the Point of Total Assumption (PTA) using Python and Matplotlib.
+
+[Open FPIF notebook in Colab](https://colab.research.google.com/github/NaveinKumar/d365fo-pmp-python/blob/main/02_FPIF/FPIF.ipynb).
 
 ### 03 — Fixed Price Award Fee (FPAF)
 
